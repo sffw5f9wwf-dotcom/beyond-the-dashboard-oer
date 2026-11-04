@@ -93,19 +93,19 @@ npm run preview
 ## Before publishing for a course
 - Confirm each reference's exact bibliographic details and that each source supports the statements attributed to it.
 - Check keyboard navigation, contrast, small-screen layout, and link destinations.
-- Add team member credits and a contact or feedback route if appropriate.
-- Only apply CC BY 4.0 to content the team has the right to license. Third-party content may have separate terms.
+- Only apply CC BY 4.0 to original educational content you have the right to license. Third-party materials may have separate terms.
 - The charts use fictional data, clearly labelled as illustrative. Do not replace it with identifiable student information.
-Creator and Reuse
+  
+## Creator and Reuse
 
-Created by: Christina Nolan
+**Created by:** Christina Nolan
 
-Live OER: https://beyond-the-dashboard-oer.vercel.app/
+**Live Interactive OER:** https://beyond-the-dashboard-oer.vercel.app/
 
-Source code: https://github.com/sffw5f9wwf-dotcom/beyond-the-dashboard-oer
+**GitHub Repository:** https://github.com/sffw5f9wwf-dotcom/beyond-the-dashboard-oer
 
-Beyond the Dashboard is an interactive Open Educational Resource designed to support educators in understanding Big Data, interpreting learning analytics, and making responsible educational decisions.
+*Beyond the Dashboard* is an interactive Open Educational Resource designed to help educators explore Big Data, interpret learning analytics, and make responsible educational decisions.
 
-Original educational content is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). Educators may share and adapt this content with appropriate attribution. Third-party materials remain subject to their respective terms.
+Original educational content is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** licence. Educators may share and adapt this content with appropriate attribution.
 
-The source code is publicly available for inspection. Separate software licensing is needed to explicitly permit its reuse and modification.
+Third-party materials remain subject to their respective licensing terms. The website's source code is publicly accessible, but a separate software licence is needed to explicitly permit its reuse and modification.
