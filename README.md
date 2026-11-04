@@ -108,4 +108,6 @@ npm run preview
 
 Original educational content is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** licence. Educators may share and adapt this content with appropriate attribution.
 
-Third-party materials remain subject to their respective licensing terms. The website's source code is publicly accessible, but a separate software licence is needed to explicitly permit its reuse and modification.
+The website's original source code is licensed under the MIT License, allowing others to reuse, modify, and redistribute the code with the required copyright and licence notice. See CODE_LICENSE.md for details.
+
+Third-party materials remain subject to their respective licensing terms.
